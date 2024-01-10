@@ -4,6 +4,26 @@
 
 This application provides an API for managing mentors and students, including assigning students to mentors, change or assign mentor to student.  It interacts with a database to store and retrieve data.
 
+## **URLs**
+
+## [Render Deployed URL 👈 ](https://assign-mentor-student-edju.onrender.com)
+
+```
+https://assign-mentor-student-edju.onrender.com
+```
+
+## [Github repository URL 👈](https://github.com/LoordhuJeyakumar/assign-mentor)
+
+```
+https://github.com/LoordhuJeyakumar/assign-mentor
+```
+
+## [Documentation URL 👈](https://documenter.getpostman.com/view/27536086/2s9YsKgBxY)
+
+```
+https://documenter.getpostman.com/view/27536086/2s9YsKgBxY
+```
+
 ## Endpoints
 
 ### Base Endpoint:
@@ -17,7 +37,7 @@ Returns homepage.
 
 All API endpoints are accessible at the following base URL:
 
-http://localhost:3333/api/v1
+https://assign-mentor-student-edju.onrender.com/api/v1
 ## Endpoints
 
 ### Students
